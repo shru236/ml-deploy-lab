@@ -18,9 +18,14 @@ class InputData(BaseModel):
 def read_root():
     return {"message": "API is running"}
 
-@app.get('/health')
-def health():
-    return {'status': 'ok'}
+# @app.get('/health')
+# def health():
+    # return {'status': 'ok'}
+
+
+@app.get("/health")
+def health_check():
+    return {"status": "Service is running ✅"}
 
 @app.post('/predict')
 def predict(data: InputData):
