@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Data%20Science/Data%20science%205/DEVOPS/ml-deploy-lab/ml-deploy-lab/mlruns/0/models/m-b2315431c43f41d68db79dbba5e344bb/artifacts
+creation_timestamp: 1757916984109
+experiment_id: '0'
+last_updated_timestamp: 1757916987722
+model_id: m-b2315431c43f41d68db79dbba5e344bb
+model_type: null
+name: model
+source_run_id: 4b4ab05634c447b0817846d26c37c416
+status: 2
+status_message: null

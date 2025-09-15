@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Data%20Science/Data%20science%205/DEVOPS/ml-deploy-lab/ml-deploy-lab/mlruns/0/models/m-3690b40ee61f44a7928615f58d66e1b2/artifacts
+creation_timestamp: 1757939239050
+experiment_id: '0'
+last_updated_timestamp: 1757939249323
+model_id: m-3690b40ee61f44a7928615f58d66e1b2
+model_type: null
+name: model
+source_run_id: 6dec377320c5450598d94e22b20542c5
+status: 2
+status_message: null
